@@ -1,0 +1,6 @@
+.git
+.psc-package
+purescript-native
+output
+*.d
+*.o
